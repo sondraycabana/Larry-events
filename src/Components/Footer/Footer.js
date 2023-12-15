@@ -103,7 +103,7 @@ const footer = () => {
                         <SocialLogo to="/">
                                 <img src={Logo} width={50} height={50}   />
                         </SocialLogo>
-                        <WebsiteRights>LARRYKAYEVENTS   2022 </WebsiteRights>
+                        <WebsiteRights>LARRYKAYEVENTS   2024 </WebsiteRights>
                         <SocialIcons>
                             <SocialIconLink href="/" target="_blank"
                             aria-label="Facebook">
