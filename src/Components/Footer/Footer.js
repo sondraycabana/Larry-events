@@ -115,7 +115,8 @@ const footer = () => {
                             <FaInstagram/>
                             </SocialIconLink>
 
-                            <SocialIconLink href="https://www.youtube.com/watch?app=desktop&v=jucnQW3gT9c" target="_blank"
+                            <SocialIconLink href="https://www.youtube.com/watch?v=ZLmAT6eaKhY" target="_blank"
+                            
                             aria-label="Youtube">
                             <FaYoutube/>
                             </SocialIconLink>
