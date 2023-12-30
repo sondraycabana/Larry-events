@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Logo from '../../../src/images/larrykaylogo.jpg'
-import { FaFacebook, FaInstagram, FaYoutube, FaTwitter, FaLinkedin } from 'react-icons/fa';
+import { FaFacebook, FaInstagram, FaYoutube, FaTwitter, FaLinkedin, FaTiktok } from 'react-icons/fa';
 import {Button} from '../../globalStyles'
 import { FooterContainer,
     FooterSubscription,  
@@ -105,7 +105,7 @@ const footer = () => {
                         </SocialLogo>
                         <WebsiteRights>LARRYKAYEVENTS   2024 </WebsiteRights>
                         <SocialIcons>
-                            <SocialIconLink href="/" target="_blank"
+                            <SocialIconLink href="https://web.facebook.com/pages/creation/?ref_type=comet_home" target="_blank"
                             aria-label="Facebook">
                             <FaFacebook/>
                             </SocialIconLink>
@@ -129,6 +129,11 @@ const footer = () => {
                             <SocialIconLink href="https://www.linkedin.com/in/kabir-olanrewaju-adeniji-b56396a9/" target="_blank"
                             aria-label="Linkdin">
                             <FaLinkedin/>
+                            </SocialIconLink>
+
+                            <SocialIconLink href="https://www.linkedin.com/in/kabir-olanrewaju-adeniji-b56396a9/" target="_blank"
+                            aria-label="TikTok">
+                            <FaTiktok/>
                             </SocialIconLink>
                         
                         </SocialIcons>
