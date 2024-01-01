@@ -105,7 +105,7 @@ const footer = () => {
                         </SocialLogo>
                         <WebsiteRights>LARRYKAYEVENTS   2024 </WebsiteRights>
                         <SocialIcons>
-                            <SocialIconLink href="https://web.facebook.com/pages/creation/?ref_type=comet_home" target="_blank"
+                            <SocialIconLink href="https://web.facebook.com/profile.php?id=61554783194686" target="_blank"
                             aria-label="Facebook">
                             <FaFacebook/>
                             </SocialIconLink>
