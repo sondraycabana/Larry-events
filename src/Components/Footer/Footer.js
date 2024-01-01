@@ -121,10 +121,10 @@ const footer = () => {
                             <FaYoutube/>
                             </SocialIconLink>
 
-                            <SocialIconLink href="/" target="_blank"
+                            {/* <SocialIconLink href="/" target="_blank"
                             aria-label="Twitter">
                             <FaTwitter/>
-                            </SocialIconLink>
+                            </SocialIconLink> */}
 
                             <SocialIconLink href="https://www.linkedin.com/in/kabir-olanrewaju-adeniji-b56396a9/" target="_blank"
                             aria-label="Linkdin">
