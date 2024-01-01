@@ -131,7 +131,7 @@ const footer = () => {
                             <FaLinkedin/>
                             </SocialIconLink>
 
-                            <SocialIconLink href="https://www.linkedin.com/in/kabir-olanrewaju-adeniji-b56396a9/" target="_blank"
+                            <SocialIconLink href="https://www.tiktok.com/@whitecarninval" target="_blank"
                             aria-label="TikTok">
                             <FaTiktok/>
                             </SocialIconLink>
